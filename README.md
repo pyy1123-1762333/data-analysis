@@ -3,4 +3,4 @@
 2. Rock & Roll and the Gabor Transform
 3. PCA and a Spring-Mass System
 4. Classifying Digits (LDA, SVM, decision tree)
-5. 
+5. Background Subtraction in Video Streams (DMD)
